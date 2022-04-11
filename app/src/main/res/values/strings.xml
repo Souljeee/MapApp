@@ -1,3 +1,22 @@
 <resources>
     <string name="app_name">MapApp</string>
+    <string name="dialog_button_close">Закрыть</string>
+    <string name="dialog_title_no_gps">Доступ к геолокации закрыт</string>
+    <string name="dialog_message_no_gps">Разрешите доступ к геолокации</string>
+    <string name="dialog_title_gps_turned_off">GPS отключён</string>
+    <string name="dialog_message_last_location_unknown">Местонахождение неизвестно.
+Включите GPS</string>
+    <string name="dialog_message_last_known_location">Показана последняя известная
+локация. Включите GPS, если хотите обновить местонахождение</string>
+    <string name="dialog_rationale_title">Доступ к геолокации</string>
+    <string name="dialog_rationale_meaasge">Объяснение</string>
+    <string name="dialog_rationale_give_access">Предоставить доступ</string>
+    <string name="dialog_rationale_decline">Не надо</string>
+    <string name="dialog_address_title">Ваш адрес</string>
+    <string name="markers_list_title">Список маркеров</string>
+    <string name="yours_markers_title">Ваши маркеры</string>
+    <string name="input_name_dialog_title">Название</string>
+    <string name="edit_snippet_dialog_title">Аннотация</string>
+    <string name="delete_item_title">Удалить</string>
+
 </resources>
